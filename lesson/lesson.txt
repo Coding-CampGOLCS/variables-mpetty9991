@@ -1,0 +1,39 @@
+VARIABLES AND I/O, MARCH 24th, 2022
+
+###########################################################################
+WHAT IS A VARIABLE?!?!?!?!?!?!?!?!?
+
+A variable is a ___ to store ___.
+
+What Kind of Information?
+* Strings -- Also known as ____
+* Int     -- Integers (______) like 1 and -10 and -102,102,201,999 and 3
+* Float   -- ______! (or fractions :) Any number that isn't an Int
+* Bool    -- Short for Boolean (no not Boolin'). Stands for ____ or ____
+             We'll talk about that last one later, she's a useful variable!
+
+HOW DO WE USE A VARIABLE???
+Well... it's actually pretty simple, here are some examples!
+
+my_variable = 1
+my_other_variable = 'String'
+my_string = 'Yeet'
+my_float = 10.11
+
+It's a _______
+
+#############################################################################
+INPUT AND OUTPUT (I/O)
+
+Input is ________
+Output is ________
+
+For now, we will mainly be dealing with 
+* ____ Input
+* Output to the _____
+
+HOW THO?!?!?!?!?
+* input statement
+* print statement
+
+Let us finally write some code :)
